@@ -51,10 +51,10 @@ Ethara/
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](./screenshoots/loginpage.png)
+![Login](./screenshots/loginpage.png)
 
 ### 📁 Projects Page
-![Projects](./screenshoots/projects.png)
+![Projects](./screenshots/projects.png)
 
 ### 📊 Dashboard
 ![Dashboard](./screenshots/dashboard.png)
