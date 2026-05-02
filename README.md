@@ -51,19 +51,19 @@ Ethara/
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](./frontend/public/login.png)
+![Login](./screenshoots/loginpage.png)
 
 ### 📁 Projects Page
-![Projects](./frontend/public/projects.png)
+![Projects](./screenshoots/projects.png)
 
 ### 📊 Dashboard
-![Dashboard](./frontend/public/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### 📋 Task Board
-![Tasks](./frontend/public/tasks.png)
+![Tasks](./screenshots/tasks.png)
 
 ### 👥 Members Page
-![Members](./frontend/public/members.png)
+![Members](./screenshots/members.png)
 
 ---
 
